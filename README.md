@@ -1,9 +1,6 @@
 hello-world
 ===========
 
-Test repository
+Now with 100% more PIZZAZZ!!!
 
-
-Here is an edit of the readme to test the workflow.
-
-Nice! It's working.
+Let's merge this branch into the main branch.
